@@ -1,2 +1,2 @@
 # Codecademy
-All of my codecademy projects
+My Codecademy portfolio project website
